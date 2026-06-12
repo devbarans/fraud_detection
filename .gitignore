@@ -1,0 +1,20 @@
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+.env
+
+# Raw and Processed Datasets
+data/creditcard.csv
+data/*.npy
+
+# OS Files
+.DS_Store
+Thumbler.db
